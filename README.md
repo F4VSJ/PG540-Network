@@ -1,4 +1,6 @@
-# PG540-Network
+# PG540-Spotnik-Network
 The PG540 Network
+
 see all details on:
-http://www.pg540.org/wiki/index.php/Het_PG540_Spotnik_Netwerk
+
+ http://www.pg540.org/wiki/index.php/Het_PG540_Spotnik_Netwerk
